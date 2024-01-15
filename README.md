@@ -1,2 +1,2 @@
 # AnonymousFTPScanner
-FTP Scanner script with Python
+This is a Cybersecurity project written in Python 
